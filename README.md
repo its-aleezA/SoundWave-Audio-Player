@@ -23,7 +23,7 @@ This project implements a fully-featured audio player in a single HTML file usin
 
 ## 📱 Live Demo
 
-Check out the live demo [here](https://github.io/its-aleezA/SoundWave-Audio-Player)
+Check out the live demo [here](https://its-aleeza.github.io/SoundWave-Audio-Player/)
 
 ---
 
