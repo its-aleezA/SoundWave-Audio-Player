@@ -2,7 +2,8 @@
 
 A sleek, modern web-based audio player with playlist management, built using vanilla JavaScript and implementing core computer science data structures. Features a beautiful gradient UI with full playback controls and playlist functionality.
 
-> **Note on Browser Compatibility**: This audio player uses modern web APIs and may require user interaction to start playback due to browser autoplay policies. For best results, use Chrome, Firefox, or Edge.
+> [!IMPORTANT]
+> This audio player uses modern web APIs and may require user interaction to start playback due to browser autoplay policies. For best results, use Chrome, Firefox, or Edge.
 
 **Key Features**:
 - ✅ **Doubly Linked List** for efficient playlist management
@@ -169,4 +170,5 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-_Note: This audio player runs entirely in your browser - no audio files are uploaded to any server. All processing happens locally on your device._
+[!NOTE]
+> This audio player runs entirely in your browser - no audio files are uploaded to any server. All processing happens locally on your device.
