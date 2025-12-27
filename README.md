@@ -170,5 +170,5 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-[!NOTE]
+> [!NOTE]
 > This audio player runs entirely in your browser - no audio files are uploaded to any server. All processing happens locally on your device.
